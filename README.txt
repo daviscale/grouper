@@ -4,7 +4,7 @@ projects. The required input is a plain text file. grouper reads each row as
 one "item". grouper creates a CSV file where each row is a list of items that 
 belong to a group.
 
-Examples:
+Example:
 
 Cale-Daviss-iMac:grouper daviscale$ grouper.py -h
 Usage: grouper.py [options] list_of_groups_file
